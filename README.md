@@ -27,7 +27,7 @@ portfolio-website/
 Edit the following in `index.html`:
 - Replace "Your Name" with your actual name
 - Update email, LinkedIn, and GitHub links in the contact section
-- Modify the about section with your personal information
+- Modify the about section with your personal informations
 
 ### 2. Projects Management
 Projects are managed in `script.js`. You can:
